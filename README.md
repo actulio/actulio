@@ -1,6 +1,6 @@
 ## Hello There, I'm Tulio Caldas.
 
-I'm a Computer Engineer engaged with the javascript ecosystem. I work primarily with React, Nodejs and real time communication powered by WebRTC.
+I'm a Computer Engineer engaged in the javascript ecosystem. I work primarily with React, Nodejs and real time communication powered by WebRTC.
 
  <div>
   <a href="https://github.com/actulio">
