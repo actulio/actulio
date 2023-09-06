@@ -2,11 +2,12 @@
 
 I'm a Computer Engineer engaged in the javascript ecosystem. I work primarily with React, Nodejs and real time communication powered by WebRTC.
 
+<!---
  <div>
   <a href="https://github.com/actulio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=actulio&show_icons=true&hide=prs&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  
+-->
 
 ## Skills:
 
